@@ -38,7 +38,7 @@ After Start server:
 
 
 
-#OR
+# OR
 
 
 you can import dynamicwebsite.sql
